@@ -3,6 +3,11 @@
 This project uses Machine Learning to predict rainfall based on historical rainfall data. A hybrid XGBoost regression approach was implemented by modeling residuals and combining them with the underlying trend prediction.
 The project also includes an interactive Streamlit web application that allows users to generate rainfall predictions based on selected inputs.
 
+### Tech Stack
+Front-End: HTML, CSS
+Back-End: Flask
+IDE: Jupyter notebook, vscode
+
 ### Objectives
 Analyze historical rainfall patterns.
 Perform data preprocessing and feature engineering.
@@ -11,8 +16,8 @@ Evaluate model performance using regression metrics.
 Deploy the trained model through a Streamlit application.
 
 ### Technologies Used
-1.Python
-2.Pandas
+Python
+Pandas
 NumPy
 Scikit-learn
 XGBoost
