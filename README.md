@@ -11,8 +11,8 @@ Evaluate model performance using regression metrics.
 Deploy the trained model through a Streamlit application.
 
 ### Technologies Used
-Python
-Pandas
+1.Python
+2.Pandas
 NumPy
 Scikit-learn
 XGBoost
