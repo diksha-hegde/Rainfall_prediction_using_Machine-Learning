@@ -4,9 +4,9 @@ This project uses Machine Learning to predict rainfall based on historical rainf
 The project also includes an interactive Streamlit web application that allows users to generate rainfall predictions based on selected inputs.
 
 ### Tech Stack
--Front-End: HTML, CSS
--Back-End: Flask
--IDE: Jupyter notebook, vscode
+- Front-End: HTML, CSS
+- Back-End: Flask
+- IDE: Jupyter notebook, vscode
 
 ### Objectives
 Analyze historical rainfall patterns.
